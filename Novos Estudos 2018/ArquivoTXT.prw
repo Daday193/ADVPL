@@ -1,6 +1,7 @@
 #Include "Protheus.ch"
 
 User Function RERPM01()
+
 Private cDirect    := "C:\TOTVS 12\"
 Private cArquivo    := "arquivo_teste.txt"
 
